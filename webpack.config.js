@@ -14,7 +14,7 @@ module.exports= {
         'assets/js/chart': './src/assets/js/chart.js',
     },
     output :{
-        publicPath:'omar1190.githup.io',
+        publicPath:'auto',
         path:path.join(__dirname, '/app'),
         filename:'[name].js',
     },
